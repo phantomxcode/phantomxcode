@@ -1,5 +1,8 @@
 <h1 align="center">Ashish Gowda P | Developer, Innovator, Creator</h1>
 <h3 align="center">Empowering ideas through clean, efficient, and elegant code.</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coding gif"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantomxcode&label=Profile%20views&color=0e75b6&style=flat" alt="phantomxcode" /> </p>
 
