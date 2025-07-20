@@ -7,14 +7,15 @@
 
 - 🌱 I’m currently learning **DSA using Python**
 
-- 💬 Ask me about **Design that speaks louder than words — ask me about branding, visuals, and creative direction.**
+- 💬 **Design that speaks louder than words — ask me about branding, visuals, and creative direction.**
 
-- 📫 How to reach me **ashish.gowda2004@gmail.com**
+- 📫 How to reach me => **ashish.gowda2004@gmail.com**
 
-- ⚡ Fun fact **Designs are clean, humour is questionable.**
+- ⚡ **Designs are clean, humour is questionable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/phantomxtweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phantomxtweets" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish gowda p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish gowda p" height="30" width="40" /></a>
 <a href="https://instagram.com/ash._.ish___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ash._.ish___" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xV97ruMX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xV97ruMX" height="30" width="40" /></a>
