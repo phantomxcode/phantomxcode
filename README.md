@@ -1,7 +1,7 @@
 <h1 align="center">Ashish Gowda P | Developer, Innovator, Creator</h1>
 <h3 align="center">Empowering ideas through clean, efficient, and elegant code.</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coding gif"/>
+  <div class="tenor-gif-embed" data-postid="9607410651681348522" data-share-method="host" data-aspect-ratio="1.13287" data-width="100%"><a href="https://tenor.com/view/anime-wave-hello-chibi-greetings-gif-9607410651681348522">Anime Wave Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantomxcode&label=Profile%20views&color=0e75b6&style=flat" alt="phantomxcode" /> </p>
