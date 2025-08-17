@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantomxcode&label=Profile%20views&color=0e75b6&style=flat" alt="phantomxcode" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 🌱 I’m currently learning **DSA using Python**
-
 - 💬 **Design that speaks louder than words — ask me about branding, visuals, and creative direction.**
 
 - 📫 How to reach me => **ashish.gowda2004@gmail.com**
